@@ -3,4 +3,6 @@ Hi, Warm greetings to all and welcome to my CAE portfolio. This portfolio will s
 
 Finite Element Analysis, my work in FEA highlights, Linear elastic simualtions with case studies in mass optimisation, fatigue failure theories, mesh convergence studies, modal analysis, symmetry techniques, and simple fundamental mechancial problems (Axial loading- Compressive, Axial loading - Tensile, Bending Midspan loading, End concentrated loads).
 
-Computational Fluid Dynamcis - Currently in progress, NAAC profiles at different attack angles.
+Computational Fluid Dynamics
+Projects
+> NAAC profiles at different attack angles,  Currently in progress,
